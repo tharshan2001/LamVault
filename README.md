@@ -2,6 +2,9 @@
 
 LamVault is a fully serverless, cloud-native file processing application. Users can securely upload files, which are automatically processed (compressed, optionally converted or thumbnail generated) and stored in AWS S3. The app uses AWS Lambda, API Gateway, DynamoDB, and Cognito for authentication, with a modern React frontend.
 
+<img width="1536" height="1024" alt="ChatGPT Image Feb 25, 2026, 11_26_13 PM" src="https://github.com/user-attachments/assets/2d85a9ea-c911-407d-8cac-6189a5e4f672" />
+
+
 ## Features
 
 ✅ Fully serverless architecture – no backend servers to manage.
